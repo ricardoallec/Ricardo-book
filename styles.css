@@ -5,13 +5,18 @@
 @import url("styles/contato.css");
 @import url("styles/rodapé.css");
 
+
 :root {
-    --cor-de-fundo: #032059;
-    --branco: #630eda;
-    --laranja: #eb9100;
+    --cor-de-fundo: #f95b00;
+    --branco: #970707;
+    --laranja: #929292;
     --azul-degrade: linear-gradient(97.54deg, #002f52 35.49%, #326589 165.37%);
     --fonte-principal: "Poppins";
-    --azul: #054677;
+    --azul: #000000;
+    --fonte-secundario: "Josefin Sans";
+    --preto: #b2a1a1;
+    --cinza: #474646;
+    --cinza-claro: #ff0000;
 }
 
 body {
